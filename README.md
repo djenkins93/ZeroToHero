@@ -10,8 +10,8 @@ Then presto you're Done!
 `zth.sh` select a numerical option presented at menu ( "1" for default loadout ) 
 
 # Directions (*Post Installation of Tools*)
-(!) These instrucctions may vary based on the model of Chromebook you have.(!) 
-(!) Activate Linux on your Chromebook if this isn't alrady done(!) 
+WARNING/NOTE:
+(!) These instrucctions may vary based on the model of Chromebook you have. Activate Linux on your Chromebook if this isn't alrady done(!) 
 1. Clone the Harvester git-clone: github.com/;aramies/theHarvester
 2. Go to the folder and install requirements: `cd theHarvester && sudo pip3 install -r requirements.txt`
 3. Download Burp SUite. Get the jar version and copy to the Linux files folder. 
