@@ -7,7 +7,7 @@ Using a collection of bash commands along with the "chromebrew" package manageme
 Then presto you're Done! 
 
 # Usage
-`zth.sh` select option presented at menu (1
+`zth.sh` select a numerical option presented at menu ( "1" for default loadout ) 
 
 # Directions (*Post Installation of Tools*)
 (!) These instrucctions may vary based on the model of Chromebook you have.(!) 
