@@ -1,0 +1,11 @@
+aircrack_ng
+netcat 
+tcpdump 
+rkhunter 
+openjdk-11
+python3
+libffi 
+libxml2-dev
+libxmlsec1-dev
+firefox 
+metasploit
